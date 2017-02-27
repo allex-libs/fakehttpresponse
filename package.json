@@ -1,0 +1,21 @@
+{
+  "name": "allex_fakehttpresponselib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with a class that is useful in programmatic invocation of allex_httpexecutor methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitlab.hers.rs:allex_libs/fakehttpresponse.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "fake",
+    "http",
+    "response"
+  ],
+  "author": "HERS Belgrade",
+  "license": "ISC"
+}
